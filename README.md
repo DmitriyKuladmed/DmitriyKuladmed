@@ -88,6 +88,8 @@
 
 ---
 
+## 💼 Что я умею
+
 <div align="center">
 
 | 🎯 Backend | 🎨 Frontend | 🚀 DevOps |
