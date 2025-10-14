@@ -145,32 +145,6 @@
 
 ---
 
-## 🔥 Мой подход к разработке
-
-```typescript
-class Developer {
-  name: string = "Dmitry Kulaga";
-  role: string[] = ["Backend Developer", "Frontend Developer", "DevOps Engineer"];
-  
-  skills = {
-    backend: ["Python", "FastAPI", "PostgreSQL", "Redis"],
-    frontend: ["JavaScript", "TypeScript", "React"],
-    devops: ["Docker", "GitHub Actions", "Linux", "Nginx"],
-    ai: ["OpenAI API", "LangChain", "AI Assistants"]
-  };
-  
-  getCurrentWork(): string {
-    return "Building AI-powered solutions and automating everything! 🚀";
-  }
-  
-  getLifeMotto(): string {
-    return "Code, Deploy, Automate, Repeat! 💻";
-  }
-}
-```
-
----
-
 ## 🤝 Связаться со мной
 
 <p align="center">
