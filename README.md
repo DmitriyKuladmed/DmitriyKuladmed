@@ -88,17 +88,35 @@
 
 ---
 
-## 💼 Что я умею
-
 <div align="center">
 
 | 🎯 Backend | 🎨 Frontend | 🚀 DevOps |
 |:---:|:---:|:---:|
-| Python/FastAPI | JavaScript/TypeScript | Docker & Docker Compose |
-| REST API | React | CI/CD (GitHub Actions) |
-| PostgreSQL/Redis | Responsive Design | Linux Administration |
-| Telegram Bots | SPA Applications | Nginx Configuration |
-| AI Integration | Modern UI/UX | Server Deployment |
+| Микросервисная архитектура | Адаптивная верстка | Контейнеризация приложений |
+| REST API & WebSocket | SPA & Progressive Web Apps | CI/CD пайплайны |
+| Асинхронное программирование | State Management | Мониторинг и логирование |
+| Кэширование и оптимизация | Кросс-браузерная совместимость | Автоматизация деплоя |
+| Миграции БД | Интеграция с Backend API | Балансировка нагрузки |
+| Интеграция с AI/ML | TypeScript Type Safety | SSL-сертификаты и безопасность |
+
+</div>
+
+---
+
+## 🎓 Опыт и подходы
+
+<div align="center">
+
+```python
+expertise = {
+    "architecture": ["Clean Architecture", "MVC", "Microservices"],
+    "methodologies": ["Agile", "Test-Driven Development", "Code Review"],
+    "best_practices": ["DRY", "SOLID", "Design Patterns"],
+    "integration": ["Third-party APIs", "Payment Systems", "AI Services"],
+    "deployment": ["Zero-downtime deployment", "Blue-Green", "Rolling updates"],
+    "security": ["JWT Authentication", "OAuth2", "Data Encryption"]
+}
+```
 
 </div>
 
