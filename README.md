@@ -107,20 +107,60 @@
 
 ## 🎓 Опыт и подходы
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-```python
-expertise = {
-    "architecture": ["Clean Architecture", "MVC", "Microservices"],
-    "methodologies": ["Agile", "Test-Driven Development", "Code Review"],
-    "best_practices": ["DRY", "SOLID", "Design Patterns"],
-    "integration": ["Third-party APIs", "Payment Systems", "AI Services"],
-    "deployment": ["Zero-downtime deployment", "Blue-Green", "Rolling updates"],
-    "security": ["JWT Authentication", "OAuth2", "Data Encryption"]
-}
-```
+**🏗️ Архитектура**
+- Clean Architecture
+- MVC Pattern
+- Microservices
 
-</div>
+</td>
+<td align="center" width="33%">
+
+**📋 Методологии**
+- Agile / Scrum
+- Test-Driven Development
+- Code Review
+
+</td>
+<td align="center" width="33%">
+
+**✨ Best Practices**
+- DRY Principle
+- SOLID Principles
+- Design Patterns
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+**🔗 Интеграции**
+- Third-party APIs
+- Payment Systems
+- AI Services
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Deployment**
+- Zero-downtime
+- Blue-Green Strategy
+- Rolling Updates
+
+</td>
+<td align="center" width="33%">
+
+**🔒 Безопасность**
+- JWT Authentication
+- OAuth2
+- Data Encryption
+
+</td>
+</tr>
+</table>
 
 ---
 
