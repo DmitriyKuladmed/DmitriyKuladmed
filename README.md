@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👨‍💻 Dmitry Kulaga</h1>
-<h3 align="center">Python Developer | AI Solutions | Telegram Bots</h3>
+<h3 align="center">Python Developer | DevOps Engineer | AI Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DmitriyKuladmed&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
