@@ -131,6 +131,8 @@
 
 [![CryptoAnalystAI_bot](https://github-readme-stats.vercel.app/api/pin/?username=Neuroservice&repo=CryptoAnalystAI_bot&theme=tokyonight)](https://github.com/Neuroservice/CryptoAnalystAI_bot)
 [![RM_European_Parser](https://github-readme-stats.vercel.app/api/pin/?username=DmitriyKuladmed&repo=RM_European_Parser&theme=tokyonight)](https://github.com/DmitriyKuladmed/RM_European_Parser)
+[![AutoTests_EffectiveMobile](https://github-readme-stats.vercel.app/api/pin/?username=DmitriyKuladmed&repo=AutoTests_EffectiveMobile&theme=tokyonight)](https://github.com/DmitriyKuladmed/AutoTests_EffectiveMobile)
+[![PizzaExpress](https://github-readme-stats.vercel.app/api/pin/?username=DmitriyKuladmed&repo=PizzaExpress&theme=tokyonight)](https://github.com/DmitriyKuladmed/PizzaExpress)
 
 </div>
 
